@@ -3,7 +3,7 @@
 
 #### 1. Re-iterating let and const
 #### 2. Merge Conflicts, why ours didn't conflict
-#### 3. List Comprehension in JAVASCRIPT (and not python lol)
+#### 3. Array Comprehension in JAVASCRIPT (and not python lol)
 
 -------------------------------------------------------------
 ## 1: Re-iterating let and const
@@ -32,6 +32,6 @@ the activity in your labs last week, I won't go into detail - email if you have 
 
 ## 3: List comprehension in Javascript
 
-#### IMPORTANT: Typical list comprehension in Javascript involves the use of map. This will only be taught in week 4, so I was jumping the gun! We will come bacl to this later. The syntax we saw in class (i.e. [for (x of iterable) if (condition) x]) has been removed from javascript and is not standard anymore.
+#### IMPORTANT: Typical array comprehension in Javascript involves the use of map. This will only be taught in week 4, so I was jumping the gun! We will come back to this later. The syntax we saw in class (i.e. [for (x of iterable) if (condition) x]) has been removed from javascript and is not standard anymore.
 
 I accidentally went into pytho during the tutorial! Not great form, but mistakes do happen - hope this wasn't too confusing!
